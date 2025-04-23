@@ -25,6 +25,7 @@ Isso garante dignidade, acesso à alimentação e redução do impacto ambiental
 - **CSS3**
 - **JavaScript**
 - **React**
+- **Vite**
 
 ---
 
